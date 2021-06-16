@@ -1,6 +1,6 @@
 h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-shadow: rgb(129, 228, 228);
+    text-shadow: #81e4e4;
 }
 
 h2 {
@@ -13,7 +13,7 @@ h2 {
 }
 
 #contents {
-    background-color: rgba(248, 218, 179, 0.253);
+    background-color: #f8dab341;
     font-size: xx-large;
 }
 
@@ -30,17 +30,17 @@ h2 {
 }
 
 #period {
-    background-color: rgba(224, 172, 231, 0.404);
+    background-color: #e0ace767;
     font-size: large;
 }
 
 #later {
-    background-color: rgba(164, 226, 226, 0.404);
+    background-color: #a4e2e267;
     font-size: medium;
 }
 
 #works {
-    background-color: rgba(235, 189, 133, 0.432);
+    background-color: #ebbd856e;
     font-size: small;
 }
 
