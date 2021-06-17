@@ -51,3 +51,16 @@ h2 {
 #last-par {
     text-align: center;
 }
+
+a:active {
+    color: #0000ff;
+}
+
+a:visited {
+    color: #1f7a03;
+}
+
+a:hover {
+    color: #b8860b;
+    cursor: pointer;
+}
